@@ -40,7 +40,7 @@ This repository contains my tasks for the Operational Systems class at LPNU.
 - [Lab07 Code Linux Dynamic](./Lab7/LinuxDynamic/)
 - [Lab07 Code Linux Static](./Lab7/LinuxStatic/)
 - [Lab07 Code Windows Dynamic](./Lab7/WindowsDynamic/)
-- [Lab07 Code Windows Static](./Lab7/WindowsStatic/)=
+- [Lab07 Code Windows Static](./Lab7/WindowsStatic/)
 
 ### Lab08: File system management.
 
